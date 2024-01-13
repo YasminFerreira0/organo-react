@@ -21,6 +21,10 @@ function App() {
       <Time nome="Programação"></Time>
       <Time nome="Front-End"></Time>
       <Time nome="Data Science"></Time>
+      <Time nome="Devlops"></Time>
+      <Time nome="Ux e Design"></Time>
+      <Time nome="Mobile"></Time>
+      <Time nome="Inovação e Gestão"></Time>
       
     </div>
   );
