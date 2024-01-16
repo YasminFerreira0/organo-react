@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState } from 'react'; //importação do react para useState
 import Banner from './componentes/Banner';
 import Formulario from './componentes/Formulario';
 import Time from './componentes/Time';
@@ -13,7 +13,7 @@ function App() {
 
   }
 
-  return (
+  return ( // Programa react publicado 
     
     <div className="App">
       <Banner/>
@@ -30,4 +30,4 @@ function App() {
   );
 }
 
-export default App;
+export default App; // exportação da função react 
